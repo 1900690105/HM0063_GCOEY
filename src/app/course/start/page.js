@@ -54,7 +54,7 @@ const CoursePage = () => {
   // const [loading, setLoading] = useState(false);
   const [chapterExam, setChapterExam] = useState("");
   const [examData, setExamData] = useState(false);
-  const [exam, setExam] = useState(1);
+  const [exam, setExam] = useState(0);
   const [topicName, setTopicName] = useState("");
   const combinedChapterData = JSON.parse(
     localStorage.getItem("combinedChapterData")
