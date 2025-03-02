@@ -27,7 +27,7 @@ Students often require an engaging and interactive way to track their learning p
 
 
 ## Deployed Url
-[Link to Deployed Solution](gfgpccoe.in)
+[ https://hm0063gcoey.vercel.app/ ](gfgpccoe.in)
 
 ## Video Url
 https://drive.google.com/file/d/1V-05ePMLSCuHF78q-WOemgcjXjebxGfY/view?usp=sharing
