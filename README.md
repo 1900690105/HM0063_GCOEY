@@ -1,4 +1,4 @@
-# [Team Id] Nikhil Kandhare
+# [HM0063] GCOEY
 
 ## [Problem statement Title]
 Students often need an engaging and interactive way to track their learning progress and assess their knowledge. Developing a student-centric platform that offers interactive lessons and quizzes enhances the learning experience. The platform should also include a global quiz matchmaking feature, allowing students to compete with peers worldwide based on the topics they have learned. This competitive element is gamified with reward credits to boost student engagement and motivation. The objective is to create an interactive educational platform that encourages learning through lessons, quizzes, and global peer competition.
@@ -12,16 +12,16 @@ Students often require an engaging and interactive way to track their learning p
 - Interactive lessons and quizzes for knowledge reinforcement
 - Global quiz matchmaking to encourage peer competition and engagement
 - Gamification with reward credits to boost student motivation
-- Automated resume evaluation and optimization
-- Real-time interview simulations and feedback
-- Job readiness tracking and analytics
+- Roadmap for job role
+- Branch wise roles and category
+- lessons with ai integretion
 
 
 ## Tech Stack
-- Frontend: JavaScript, React, Next.js, Tailwind CSS
+- Frontend: HTML,CSS,JavaScript, React, Next.js, Tailwind CSS
 - AI Integration: Gemini AI API for skill assessment and career recommendations
-- Database: MongoDB (for tracking user progress and quiz matchmaking)
-- Backend: Node.js, Express.js (handling lessons, quizzes, and matchmaking)
+- Database: localstorage(Browser storage)
+- Backend: NextJs
 
 ## Screenshots
 
