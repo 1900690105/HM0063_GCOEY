@@ -6,10 +6,10 @@
         "use": "@vercel/next"
       }
     ],
-    "routes": [
+    "rewrites": [
       {
-        "src": "/(.*)",
-        "dest": "/"
+        "source": "/api/:path*",
+        "destination": "/api/:path*"
       }
     ],
     "redirects": [],
@@ -27,6 +27,8 @@
           }
         ]
       }
-    ]
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
   }
   
